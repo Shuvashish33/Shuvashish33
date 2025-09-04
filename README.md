@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi%2C+I'm+Shuvashish+Sharma!;Undergraduate+Physics+Student;Data+Science+%26+Machine+Learning+Enthusiast;Passionate+about+Computational+Physics)](https://git.io/typing-svg)
+
+
+
 # 👋 Hi, I’m Shuvashish Sharma  
 
 🎓 I’m an **undergraduate physics student** from Dhaka, Bangladesh.  
