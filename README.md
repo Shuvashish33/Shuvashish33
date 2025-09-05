@@ -46,7 +46,7 @@
 
 
 
-# 👋 Hi, I’m Shuvashish Sharma  
+  
 
 🎓 I’m an **undergraduate physics student** from Dhaka, Bangladesh.  
 💡 I’m passionate about using **Data Science & Machine Learning** to solve physics problems and explore research opportunities.  
