@@ -47,7 +47,7 @@
 
 
   
-#🚀About Me
+## 🚀 About me
 🎓 I’m an **undergraduate physics student** from Dhaka, Bangladesh.  
 💡 I’m passionate about using **Data Science & Machine Learning** to solve physics problems and explore research opportunities.  
 
