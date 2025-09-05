@@ -39,7 +39,8 @@
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white" alt="MATLAB"/>
+   <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB"/>
+ 
   </p>
 
 </div>
