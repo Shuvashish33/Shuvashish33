@@ -92,16 +92,20 @@
 
 ---
 
-## 😄 Pronouns  
-He / Him  
-
----
 
 ## ⚡ Fun Fact  
 I love explaining physics in simple ways that connect theory with real-life examples ⚛️✨  
 
 ---
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvashish33&layout=compact&theme=radical&hide_border=true&hide=Makefile,Batchfile&langs_count=8&custom_title=Top%20Languages%20Used" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shuvashish33&theme=react-dark&hide_border=true&area=true&color=00ffee&point=ffffff&line=00ffee&custom_title=My%20Activity%20Graph" alt="GitHub Contribution Graph" />
+</p>
+
+---
 <!---
 Shuvashish33-lab/Shuvashish33-lab is a ✨ special ✨ repository because its `README.md` 
 (this file) appears on your GitHub profile.
