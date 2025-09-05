@@ -97,6 +97,12 @@
 I love explaining physics in simple ways that connect theory with real-life examples ⚛️✨  
 
 ---
+### 📈 GitHub Stats & Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shuvashish33&show_icons=true&theme=radical&hide_border=true&custom_title=My%20GitHub%20Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Shuvashish33&theme=radical&hide_border=true" />
+</p>
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvashish33&layout=compact&theme=radical&hide_border=true&hide=Makefile,Batchfile&langs_count=8&custom_title=Top%20Languages%20Used" />
 </p>
@@ -106,7 +112,3 @@ I love explaining physics in simple ways that connect theory with real-life exam
 </p>
 
 ---
-<!---
-Shuvashish33-lab/Shuvashish33-lab is a ✨ special ✨ repository because its `README.md` 
-(this file) appears on your GitHub profile.
---->
