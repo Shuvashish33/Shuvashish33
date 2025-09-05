@@ -86,7 +86,7 @@
 
 ## 🌐 Connect With Me  
 - 🖤 Facebook: [shodip.sharma](https://facebook.com/shodip.sharma)  
-- 📸 Instagram: [Physicsandsciencelovers](https://instagram.com/Physicsandsciencelovers)  
+- ⚛️ Facebook Science page: [Physicsandsciencelovers](https://instagram.com/Physicsandsciencelovers)  
 - 💼 LinkedIn: [Shuvashish Sharma](https://www.linkedin.com/in/shuvashish-sharma-a95b27199)  
 - ▶️ YouTube: [@shuvashishsharma1299](https://www.youtube.com/@shuvashishsharma1299)  
 
